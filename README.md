@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, off-by-one error in COBOL. The `bug.cob` file contains the erroneous code, while `bugSolution.cob` provides the corrected version.  The error is subtle and highlights the importance of carefully examining loop control structures in COBOL.
